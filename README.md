@@ -13,7 +13,7 @@ The dataset used in the paper is avaiable at https://github.com/stasl0217/KEnS.
 
 
 ### Run
-python3 main.py [parameters]
+python main.py [parameters]
 
 
 ### Update
